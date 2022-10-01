@@ -49,6 +49,7 @@ public class Main
         else
         {
             System.out.println("You have entered invalid input. Please try again.");
+            System.exit(0);
         }
     }
 }
